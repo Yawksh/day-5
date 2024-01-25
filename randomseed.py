@@ -2,7 +2,7 @@ import random
 import string
 list1=[1,3,5,7,8,0,4,32,32]
 random.seed(0)
-for i in range(len(list1)):
+for j in range(len(list1)):
 
     randomchoice=random.choice(list1)
     print(randomchoice,end=' ')
