@@ -8,7 +8,7 @@ playGame = True
 category = ""
 continueGame = "Y"
 
-name = input("Enter your name")
+name = input("Enter your name ")
 print("Hello", name.capitalize(), "let's start playing Hangman!")
 time.sleep(1)
 print("The objective of the game is to guess the secret word chosen by the computer.")
