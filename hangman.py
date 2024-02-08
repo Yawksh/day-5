@@ -47,7 +47,6 @@ while True:
         def printGuessedLetter():
             print("Your Secret word is: " + ''.join(userGuesslist))
 
-
         #Adding blank lines to userGuesslist to create the blank secret word
         for n in secretWordList:
             userGuesslist.append('_')
