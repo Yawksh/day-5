@@ -7,6 +7,7 @@ userGuesslist = []
 userGuesses = []
 playGame = True
 category = " "
+
 continueGame = "Y"
 
 name = input("Enter your name ")
