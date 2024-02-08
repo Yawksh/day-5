@@ -102,7 +102,7 @@ while True:
             userGuesses = []
             playGame = True
         else:
-            print("Thank You for playing. See you next time!")
+            print("Thank You for playing. See you next time! bye!")
             break
     else:
         break
