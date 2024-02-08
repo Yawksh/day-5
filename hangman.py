@@ -6,7 +6,7 @@ superHeroes = ['hawkeye', 'robin', 'Galactus', 'thor', 'mystique', 'superman', '
 userGuesslist = []
 userGuesses = []
 playGame = True
-category = ""
+category = " "
 continueGame = "Y"
 
 name = input("Enter your name ")
