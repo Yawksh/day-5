@@ -29,6 +29,7 @@ while True:
         elif category.upper() == 'F':
             secretWord = random.choice(fruits)
             break
+            
         else:
             category = input("Please select a valid categary: F for Fruits / S for Super-Heroes; X to exit")
 
