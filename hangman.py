@@ -1,6 +1,5 @@
 
 import random, time
-
 fruits = ['per', 'mango1', 'apple', 'banana', 'apricot', 'pineapple','cantaloupe', 'grapefruit','jackfruit','papaya',"another"]
 superHeroes = ['hawkeye', 'robin', 'Galactus', 'thor', 'mystique', 'superman', 'deadpool', 'vision', 'sandman', 'aquaman']
 userGuesslist = []
